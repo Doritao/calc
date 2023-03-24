@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    width: 100vw;
+    height: 100vh;
+}
+
+
+ul {
+    padding: 0;
+ 
+}
+
+il{ 
+    float: left;
+    display: inline-block;
+    width: calc(100%/5);
+    height: 120px;
+    background-color: aqua;
+}
