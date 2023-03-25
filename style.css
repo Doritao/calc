@@ -23,7 +23,7 @@
 
 .container-3 {
     display: inline-block;
-    background-color: aqua;
+    background-color: rgba(0, 255, 255, 0.877);
     width: calc(33.333% - 5px);
     height: 120px;
 }
